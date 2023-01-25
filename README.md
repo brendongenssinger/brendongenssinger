@@ -1,70 +1,41 @@
+![1673964723023](https://user-images.githubusercontent.com/13748831/214635454-2d36957a-3d27-4047-873d-fd575652eb74.jpg)
 
 # ⭐ Brendon Mascarenhas ⭐
 
 
-- Formado em 2017 pela Faculdade Senac, curso Gestão da Tecnologia da Informação, 6 anos de experiência na área de Desenvolvimento de Software. 
-- Atualmente em 2023 venho trabalhando com aplicações de ponta a ponta ( EndPoint ) na parte do back-end. 
-- Front-End com a linguagem de programação React ( Front-End ), inclui html, css.
-
-### 📖 Vou deixar o relato abaixo, todas as tecnologias que possuo experiência e conhecimento.
-
-## Back - End :
- - ✅ Desktop ( WPF / Windows Forms ) 
- - ✅ AspNetCore / ( C# / Csharp / C-Sharp)
-
-## FrontEnd : 
-- ✅ HTML5 
-- ✅ CSS3 
-- ✅ JScript 
-- ✅ Jquery 
-- ✅ Ajax 
-- ✅ Angular 
-- ✅ React. 
+<a hrfe="https://www.linkedin.com/in/brendonmascarenhas/"><img src="https://user-images.githubusercontent.com/13748831/214634818-7321acb2-7692-46b4-bbcf-c601fec28277.svg" /><a/> 
+![]()
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/13748831/214635265-b415ef92-370f-49b0-b252-69ef84ce3b33.svg)
 
 
-## Metodologias Ágil : Scrum / Agile
 
+- Formado em 2017 pela Faculdade Senac, curso Gestão da Tecnologia da Informação
+- 6 anos de experiência na área de Desenvolvimento de Software.
+- Atuei com Migração de banco de dados ( SqlServer, PostGree, Firebird, Interbase, MySql).
+- Atuei com micro serviços Csharp, EndPoint (Soap e Rest).
+- Atuei em aplicações Desktop utilizando a interface WPF.
+- Atuei em aplicações AspNetCore utilizando API, interface Blazor, incluindo Html, CSS e JavaScript.
+- Atuei em aplicações que integravam com banco não relacional (DynamoDb) NoSql.
+- Atuei em Testes Unitários (TDD).
+- Atualmente atuo como Full-Stack, na empresa BtgPactual. Front (React) BackEnd (AspNetCore 3.1), Banco de dados não relacional (MongoDB) e Banco Relacional (PostGree).
 
-## Cloud 
- - ✅ Aws ( Lambda | S3 ) <br>
- - ✅ Aws ( API Gateway ) <br>
- - ✅ Aws ( DynamoDB ) <br> 
+## Outras informações : 
+### Experiências com Metodologias Ágil : Scrum / Agile
+###
+### Experiência com Cloud  AWS
+ - ✅ ( Lambda | S3 ) <br>
+ - ✅ ( API Gateway ) <br>
+ - ✅ ( DynamoDB NoSql) <br> 
 
-## Container : 
-- ✅ Docker
-
-## Conhecimentos em Cientista de Dados ( Python ) : 
+### Experiêcnia com Container Docker
+____
+### Aprofundando estudos em Cientista de Dados ( Python ) : 
  - ✅ Matplot <br>
  - ✅ Pandas <br>
  - ✅ Seaborn 
-
-## Banco de Dados Relacional : 
- - ✅ MS Sql Server ( DML E DDL) <br>
- - ✅ MySql (DML e DDL) <br>
- - ✅ Firebird (DML e DDL) <br>
- - ✅ PostGree (DML e DDL) <br>
-
-# Banco de Dados Não Relacional - NoSql : 
- - ✅ DynamoDB <br>
- - ✅ MongoDB <br>
-
-# Testes Unitários ( TDD ) - 
+____ 
+### Testes Unitários ( TDD ) - 
 - ✅ Assert / Arrange e Action )
+____
+###
 
-
-
-
-<!--
-**brendongenssinger/brendongenssinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
