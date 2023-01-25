@@ -9,29 +9,8 @@
 ### 📖 Vou deixar o relato abaixo, todas as tecnologias que possuo experiência e conhecimento.
 
 ## Back - End :
- - ✅ Desktop ( WPF / Windows Forms )
- - ✅ Web (React / JS / API's)
-
-##  WEB Back-End : 
-- ✅ Blazor (Web Server Assembly e Web Assembly) / C# 
-- ✅ AspNet / ( C# / Csharp / C-Sharp)
-- ✅ AspNetCore / ( C# / Csharp / C-Sharp)
-
-## Arquiteturas 
-- ✅ MVC 
-- ✅ MVVM
-
-## API's: 
-- ✅ Micro Serviços ou Micro Service WCF ( Windows Comunication Foundation)
-- ✅ Rest <br>
-- ✅ Soap <br>
-
-
-### Frameworks que Atuei em alguns projetos : 
-- ✅ Telerik - WPF <br> 
-- ✅ AntDesign - Blazor Web<br>
-- ✅ Ninject - Injeção de Dependencia ( Desktop) <br>
-- ✅ DevExtrem - React Web
+ - ✅ Desktop ( WPF / Windows Forms ) 
+ - ✅ AspNetCore / ( C# / Csharp / C-Sharp)
 
 ## FrontEnd : 
 - ✅ HTML5 
@@ -58,9 +37,6 @@
  - ✅ Matplot <br>
  - ✅ Pandas <br>
  - ✅ Seaborn 
-
-## Conhecimentos em NodeJS :
-- ✅API's 
 
 ## Banco de Dados Relacional : 
  - ✅ MS Sql Server ( DML E DDL) <br>
