@@ -12,33 +12,29 @@
 
 <div margin-top="20px"></div>
 
-- Formado em 2017 pela Faculdade Senac, curso Gestão da Tecnologia da Informação
-- 6 anos de experiência na área de Desenvolvimento de Software.
-- Atuei com Migração de banco de dados ( SqlServer, PostGree, Firebird, Interbase, MySql).
-- Atuei com micro serviços Csharp, EndPoint (Soap e Rest).
-- Atuei em aplicações Desktop utilizando a interface WPF.
-- Atuei em aplicações AspNetCore utilizando API, interface Blazor, incluindo Html, CSS e JavaScript.
-- Atuei em aplicações que integravam com banco não relacional (DynamoDb) NoSql.
-- Atuei em Testes Unitários (TDD).
-- Atualmente atuo como Full-Stack, na empresa BtgPactual. Front (React) BackEnd (AspNetCore 3.1), Banco de dados não relacional (MongoDB) e Banco Relacional (PostGree).
+- Formação: Graduado em Gestão da Tecnologia da Informação pela Faculdade Senac em 2017.
+- Experiência Profissional: Mais de 7 anos de experiência em Desenvolvimento de Software, com um histórico robusto em diversos setores da tecnologia.
+- Competências Técnicas:
+  - Migração de Bancos de Dados: Proficiência em SQL Server, PostgreSQL, Firebird, Interbase e MySQL.
+  - Desenvolvimento de Microserviços: Experiência com C#, criando endpoints SOAP e REST.
+  - Desenvolvimento de Aplicações Desktop: Domínio em aplicações WPF.
+  - Desenvolvimento Web: Profundo conhecimento em AspNetCore, utilizando APIs e a interface Blazor, além de habilidades em HTML, CSS e JavaScript.
+  - Bancos de Dados Não Relacionais: Experiência com DynamoDB e MongoDB.
+  - Testes Unitários: Implementação de Test Driven Development (TDD).
+- **Experiência com AWS:**
+  - **API Gateway:** Expertise no gerenciamento de APIs, facilitando a integração e a escalabilidade das aplicações.
+  - **S3 Bucket:** Experiência com o armazenamento e recuperação de arquivos fisicos em larga escala usando o Amazon S3, garantindo segurança e disponibilidade.
+  - **Lambda:** Capacidade comprovada em desenvolver funções serverless que executam código em resposta a eventos, reduzindo a complexidade e custos operacionais.
+  - **SQS:** Habilidade no uso de filas de mensagens para desacoplar e escalar microserviços os microserviços.
+  - **DynamoDB:** Proficiência no uso do banco de dados NoSQL da AWS, DynamoDB, para operações de dados em alta velocidade e volume, proporcionando escalabilidade e performance otimizada.
+- **Experiência com Contêinerização:**
+  - **Docker:** Conhecimento avançado no uso de Docker para criação, deploy e gerenciamento de contêineres, facilitando a portabilidade e consistência de ambientes através de diferentes sistemas e plataformas.
+ 
+Posição Atual: Atuo como Desenvolvedor Back-End na Conexia Educação, trabalhando com .Net e NodeJs 
+
 
 ## Outras informações : 
-### Experiências com Metodologias Ágil : Scrum / Agile
-###
-### Experiência com Cloud  AWS
- - ✅ ( Lambda | S3 ) <br>
- - ✅ ( API Gateway ) <br>
- - ✅ ( DynamoDB NoSql) <br> 
-
-### Experiêcnia com Container Docker
-____
-### Aprofundando estudos em Cientista de Dados ( Python ) : 
- - ✅ Matplot <br>
- - ✅ Pandas <br>
- - ✅ Seaborn 
-____ 
-### Testes Unitários ( TDD ) - 
-- ✅ Assert / Arrange e Action )
-____
-###
-
+- Experiências com Metodologias Ágil : Scrum / Agile
+- **Educação Contínua:**
+  - **Data Science:** Realizei estudos aprofundados em Data Science, cobrindo tópicos como análise de dados, machine learning, e visualização de dados. Adquiri habilidades práticas com ferramentas essenciais como **Pandas** para manipulação de dados, **Matplotlib** para visualização de dados e **Seaborn** para gráficos estatísticos avançados. Esses estudos me equiparam com um entendimento robusto das técnicas e ferramentas usadas na ciência de dados, preparando-me para futuras oportunidades na área.
+ 
