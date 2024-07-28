@@ -12,29 +12,35 @@
 
 <div margin-top="20px"></div>
 
-- Formação: Graduado em Gestão da Tecnologia da Informação pela Faculdade Senac em 2017.
-- Experiência Profissional: Mais de 7 anos de experiência em Desenvolvimento de Software, com um histórico robusto em diversos setores da tecnologia.
-- Competências Técnicas:
-  - Migração de Bancos de Dados: Proficiência em SQL Server, PostgreSQL, Firebird, Interbase e MySQL.
+<h3>Formação: Graduado em Gestão da Tecnologia da Informação pela Faculdade Senac em 2017.</h3>
+<h4>Mais de 7 anos de experiência em Desenvolvimento de Software, com experiência em diversos setores da tecnologia.</h4>
+<h5>Posição Atual: Atuo como Desenvolvedor Back-End na Conexia Educação, trabalhando com .Net e NodeJs </h5>
+
+_____
+
+<h3>Competências Técnicas Atua:</h3>
+
   - Desenvolvimento de Microserviços: Experiência com C#, criando endpoints SOAP e REST.
-  - Desenvolvimento de Aplicações Desktop: Domínio em aplicações WPF.
-  - Desenvolvimento Web: Profundo conhecimento em AspNetCore, utilizando APIs e a interface Blazor, além de habilidades em HTML, CSS e JavaScript.
+  - Desenvolvimento de Microserviços em NodeJs utilizando frameworks Nest.JS e FastiFy / Sequelize 
+  - Migração de Bancos de Dados: Proficiência em SQL Server, PostgreSQL, Firebird, Interbase e MySQL.  
+  - Desenvolvimento de Aplicações Desktop: Domínio em aplicações WPF (DotNet).
+  - Desenvolvimento Web: Profundo conhecimento em AspNete AspNetCore, utilizando APIs e a interface Blazor, além de habilidades em HTML, CSS e JavaScript.
   - Bancos de Dados Não Relacionais: Experiência com DynamoDB e MongoDB.
   - Testes Unitários: Implementação de Unity Test .
-- **Experiência com AWS:**
+
+<h3>Experiência com AWS:</h3>
+
   - **API Gateway:** Expertise no gerenciamento de APIs, facilitando a integração e a escalabilidade das aplicações.
   - **S3 Bucket:** Experiência com o armazenamento e recuperação de arquivos fisicos utilizando o Amazon S3.
   - **Lambda:** Capacidade comprovada em desenvolver funções serverless que executam código em resposta a eventos, reduzindo a complexidade e custos operacionais.
   - **SQS:** Experiência no uso de filas de mensagens para desacoplar e escalar microserviços os microserviços.
   - **DynamoDB:** Proficiência no uso do banco de dados NoSQL da AWS, DynamoDB, para operações de dados em alta velocidade e volume, proporcionando escalabilidade e performance otimizada.
-- **Experiência com Contêinerização:**
+
+<h3>Experiência com Conteiner:</h3>
+
   - **Docker:** Conhecimento avançado no uso de Docker para criação, deploy e gerenciamento de contêineres, facilitando a portabilidade e consistência de ambientes através de diferentes sistemas e plataformas.
-    - https://github.com/brendongenssinger/studies-full-cycle/blob/master/docker/php/Dockerfile
-    
- 
-Posição Atual: Atuo como Desenvolvedor Back-End na Conexia Educação, trabalhando com .Net e NodeJs 
-
-
+    - Demonstração: https://github.com/brendongenssinger/studies-full-cycle/blob/master/docker/php/Dockerfile
+  
 ## Outras informações : 
 - Experiências com Metodologias Ágil : Scrum / Agile
 - **Educação Contínua:**
