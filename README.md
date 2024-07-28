@@ -20,15 +20,17 @@
   - Desenvolvimento de Aplicações Desktop: Domínio em aplicações WPF.
   - Desenvolvimento Web: Profundo conhecimento em AspNetCore, utilizando APIs e a interface Blazor, além de habilidades em HTML, CSS e JavaScript.
   - Bancos de Dados Não Relacionais: Experiência com DynamoDB e MongoDB.
-  - Testes Unitários: Implementação de Test Driven Development (TDD).
+  - Testes Unitários: Implementação de Unity Test .
 - **Experiência com AWS:**
   - **API Gateway:** Expertise no gerenciamento de APIs, facilitando a integração e a escalabilidade das aplicações.
-  - **S3 Bucket:** Experiência com o armazenamento e recuperação de arquivos fisicos em larga escala usando o Amazon S3, garantindo segurança e disponibilidade.
+  - **S3 Bucket:** Experiência com o armazenamento e recuperação de arquivos fisicos utilizando o Amazon S3.
   - **Lambda:** Capacidade comprovada em desenvolver funções serverless que executam código em resposta a eventos, reduzindo a complexidade e custos operacionais.
-  - **SQS:** Habilidade no uso de filas de mensagens para desacoplar e escalar microserviços os microserviços.
+  - **SQS:** Experiência no uso de filas de mensagens para desacoplar e escalar microserviços os microserviços.
   - **DynamoDB:** Proficiência no uso do banco de dados NoSQL da AWS, DynamoDB, para operações de dados em alta velocidade e volume, proporcionando escalabilidade e performance otimizada.
 - **Experiência com Contêinerização:**
   - **Docker:** Conhecimento avançado no uso de Docker para criação, deploy e gerenciamento de contêineres, facilitando a portabilidade e consistência de ambientes através de diferentes sistemas e plataformas.
+    - https://github.com/brendongenssinger/studies-full-cycle/blob/master/docker/php/Dockerfile
+    
  
 Posição Atual: Atuo como Desenvolvedor Back-End na Conexia Educação, trabalhando com .Net e NodeJs 
 
